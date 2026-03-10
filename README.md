@@ -10,7 +10,7 @@
 
 🔭 **Сейчас работаю над**:
 - 🕵️ [Competitor-monitoring](https://github.com/Timysh/Competitor-monitoring) — умный парсер и анализатор конкурентов
-- 🧪 [apiTestRestassured](https://github.com/Timysh/apiTestRestassured) — фреймворк для API-тестов на Java
+- 🧪 [assist-RAG-Final](https://github.com/Timysh/assist-RAG-Final) — RAG-ассистент: ответы на вопросы по вашим документам
 
 🌱 **Изучаю сейчас**:
 - Углублённо: `n8n`, `python`, `RAG`
@@ -27,7 +27,6 @@
 
 <!-- Бейджи: скопируй те, что нужны -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 
 ---
@@ -47,8 +46,7 @@
 | Проект | Описание | Технологии | Ссылка |
 |--------|----------|------------|--------|
 | 🕵️ Competitor-monitoring | Умный анализатор конкурентов с парсингом данных | Python, BeautifulSoup, Pandas | [🔗](https://github.com/Timysh/Competitor-monitoring) |
-| 🧪 apiTestRestassured | Фреймворк для автоматизации API-тестов | Java, RestAssured, JUnit | [🔗](https://github.com/Timysh/apiTestRestassured) |
-| 🎓 PEr08mod5-Final-Project | Финальный учебный проект | Python, FastAPI, SQLAlchemy | [🔗](https://github.com/Timysh/PEr08mod5-Final-Project) |
+| 🎓 assist-RAG-Final | RAG-ассистент: ответы на вопросы по документам в базе | Python, FastAPI, SQLAlchemy | [🔗](https://github.com/Timysh/PEr08mod5-Final-Project) |
 
 ---
 
