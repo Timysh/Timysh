@@ -29,7 +29,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-> 💡 **Подсказка**: Хочешь добавить иконки для `BeautifulSoup`, `Selenium`, `PostgreSQL`? Найди их на [devicon.dev](https://devicon.dev)
 
 ---
 
@@ -40,7 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timysh&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Timysh&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-> ⚠️ **Важно**: Если карточки не грузятся — [[25]] это может быть из-за лимитов API. Решение: [[18]] разверни свой экземпляр на Vercel.
 
 ---
 
@@ -51,8 +49,6 @@
 | 🕵️ Competitor-monitoring | Умный анализатор конкурентов с парсингом данных | Python, BeautifulSoup, Pandas | [🔗](https://github.com/Timysh/Competitor-monitoring) |
 | 🧪 apiTestRestassured | Фреймворк для автоматизации API-тестов | Java, RestAssured, JUnit | [🔗](https://github.com/Timysh/apiTestRestassured) |
 | 🎓 PEr08mod5-Final-Project | Финальный учебный проект | Python, FastAPI, SQLAlchemy | [🔗](https://github.com/Timysh/PEr08mod5-Final-Project) |
-
-> 💡 **Вопрос**: Хочешь добавить скриншоты или GIF-демо для проектов? Это повышает вовлечённость на 40% [[2]]
 
 ---
 
